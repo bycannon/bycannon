@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I am a Computer Science Teacher at the American School Foundation of Monterrey.
+
 I teach introductory computer science courses (in Python), APCSP, and APCSA.
 
 <!--
